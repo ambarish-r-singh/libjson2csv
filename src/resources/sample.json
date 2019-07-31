@@ -1,0 +1,1081 @@
+{
+  "metaData": [
+    {
+      "filePath": null,
+      "box": [
+        {
+          "typeProcessing": null,
+          "topY": 188,
+          "topX": 99,
+          "bottomX": 126,
+          "bottomY": 216
+        }
+      ],
+      "tableRow": 0,
+      "type": "Checkbox",
+      "operator": null,
+      "tableNumber": 0,
+      "tableValueData": null,
+      "isAnchor": false,
+      "extractValue": null,
+      "regEx": null,
+      "func": null,
+      "pageNo": 1,
+      "marker": null,
+      "metaData_Name": "OCRActualSrv",
+      "isTableValue": false,
+      "tableColumn": 0,
+      "isExtracted": true,
+      "height": 0
+    },
+    {
+      "filePath": null,
+      "box": [
+        {
+          "typeProcessing": null,
+          "topY": 222,
+          "topX": 99,
+          "bottomX": 126,
+          "bottomY": 249
+        }
+      ],
+      "tableRow": 0,
+      "type": "Checkbox",
+      "operator": null,
+      "tableNumber": 0,
+      "tableValueData": null,
+      "isAnchor": false,
+      "extractValue": null,
+      "regEx": null,
+      "func": null,
+      "pageNo": 1,
+      "marker": null,
+      "metaData_Name": "EPSDT",
+      "isTableValue": false,
+      "tableColumn": 0,
+      "isExtracted": true,
+      "height": 0
+    },
+     {
+      "filePath": null,
+      "box": [
+        {
+          "typeProcessing": null,
+          "topY": 272,
+          "topX": 99,
+          "bottomX": 438,
+          "bottomY": 287
+        }
+      ],
+      "tableRow": 0,
+      "type": "TextLine",
+      "operator": null,
+      "tableNumber": 0,
+      "tableValueData": null,
+      "isAnchor": false,
+      "extractValue": [
+        {
+          "characters": [
+            {
+              "boundingBox": {
+                "y1": 272,
+                "x1": 99,
+                "y2": 286,
+                "x2": 107
+              },
+              "confidence": 58,
+              "characterChoices": [
+                {
+                  "confidence": 58,
+                  "text": "2"
+                },
+                {
+                  "confidence": 16,
+                  "text": "3"
+                }
+              ],
+              "text": "2"
+            },
+            {
+              "boundingBox": {
+                "y1": 284,
+                "x1": 109,
+                "y2": 286,
+                "x2": 111
+              },
+              "confidence": 45,
+              "characterChoices": [
+                {
+                  "confidence": 72,
+                  "text": "•"
+                },
+                {
+                  "confidence": 47,
+                  "text": ","
+                },
+                {
+                  "confidence": 45,
+                  "text": "."
+                }
+              ],
+              "text": "."
+            }
+          ],
+          "boundingBox": {
+            "y1": 272,
+            "x1": 99,
+            "y2": 286,
+            "x2": 111
+          },
+          "confidence": -1,
+          "text": "2."
+        },
+        {
+          "characters": [
+            {
+              "boundingBox": {
+                "y1": 272,
+                "x1": 119,
+                "y2": 286,
+                "x2": 128
+              },
+              "confidence": 31,
+              "characterChoices": [
+                {
+                  "confidence": 31,
+                  "text": "P"
+                },
+                {
+                  "confidence": 31,
+                  "text": "p"
+                },
+                {
+                  "confidence": 15,
+                  "text": "R"
+                }
+              ],
+              "text": "P"
+            },
+            {
+              "boundingBox": {
+                "y1": 275,
+                "x1": 129,
+                "y2": 286,
+                "x2": 134
+              },
+              "confidence": 19,
+              "characterChoices": [
+                {
+                  "confidence": 19,
+                  "text": "r"
+                },
+                {
+                  "confidence": 12,
+                  "text": "t"
+                }
+              ],
+              "text": "r"
+            },
+            {
+              "boundingBox": {
+                "y1": 275,
+                "x1": 135,
+                "y2": 286,
+                "x2": 144
+              },
+              "confidence": 33,
+              "characterChoices": [
+                {
+                  "confidence": 33,
+                  "text": "e"
+                },
+                {
+                  "confidence": 15,
+                  "text": "G"
+                },
+                {
+                  "confidence": 15,
+                  "text": "g"
+                }
+              ],
+              "text": "e"
+            },
+            {
+              "boundingBox": {
+                "y1": 273,
+                "x1": 143,
+                "y2": 286,
+                "x2": 152
+              },
+              "confidence": 17,
+              "characterChoices": [
+                {
+                  "confidence": 23,
+                  "text": "ti"
+                },
+                {
+                  "confidence": 17,
+                  "text": "d"
+                },
+                {
+                  "confidence": 13,
+                  "text": "b"
+                }
+              ],
+              "text": "d"
+            },
+            {
+              "boundingBox": {
+                "y1": 277,
+                "x1": 153,
+                "y2": 286,
+                "x2": 162
+              },
+              "confidence": 32,
+              "characterChoices": [
+                {
+                  "confidence": 32,
+                  "text": "e"
+                },
+                {
+                  "confidence": 17,
+                  "text": "a"
+                },
+                {
+                  "confidence": 16,
+                  "text": "6"
+                }
+              ],
+              "text": "e"
+            },
+            {
+              "boundingBox": {
+                "y1": 273,
+                "x1": 163,
+                "y2": 286,
+                "x2": 167
+              },
+              "confidence": 26,
+              "characterChoices": [
+                {
+                  "confidence": 70,
+                  "text": "1"
+                },
+                {
+                  "confidence": 70,
+                  "text": "I"
+                },
+                {
+                  "confidence": 70,
+                  "text": "i"
+                }
+              ],
+              "text": "t"
+            },
+            {
+              "boundingBox": {
+                "y1": 277,
+                "x1": 167,
+                "y2": 286,
+                "x2": 175
+              },
+              "confidence": 26,
+              "characterChoices": [
+                {
+                  "confidence": 26,
+                  "text": "e"
+                },
+                {
+                  "confidence": 18,
+                  "text": "6"
+                },
+                {
+                  "confidence": 17,
+                  "text": "E"
+                }
+              ],
+              "text": "e"
+            },
+            {
+              "boundingBox": {
+                "y1": 277,
+                "x1": 176,
+                "y2": 286,
+                "x2": 182
+              },
+              "confidence": 53,
+              "characterChoices": [
+                {
+                  "confidence": 53,
+                  "text": "r"
+                }
+              ],
+              "text": "r"
+            },
+            {
+              "boundingBox": {
+                "y1": 277,
+                "x1": 181,
+                "y2": 286,
+                "x2": 194
+              },
+              "confidence": 14,
+              "characterChoices": [
+                {
+                  "confidence": 14,
+                  "text": "m"
+                },
+                {
+                  "confidence": 14,
+                  "text": "W"
+                },
+                {
+                  "confidence": 14,
+                  "text": "w"
+                }
+              ],
+              "text": "m"
+            },
+            {
+              "boundingBox": {
+                "y1": 273,
+                "x1": 196,
+                "y2": 286,
+                "x2": 199
+              },
+              "confidence": 50,
+              "characterChoices": [
+                {
+                  "confidence": 50,
+                  "text": "i"
+                },
+                {
+                  "confidence": 15,
+                  "text": "1"
+                },
+                {
+                  "confidence": 15,
+                  "text": "I"
+                }
+              ],
+              "text": "i"
+            },
+            {
+              "boundingBox": {
+                "y1": 277,
+                "x1": 200,
+                "y2": 287,
+                "x2": 209
+              },
+              "confidence": 17,
+              "characterChoices": [
+                {
+                  "confidence": 17,
+                  "text": "n"
+                },
+                {
+                  "confidence": 12,
+                  "text": "a"
+                }
+              ],
+              "text": "n"
+            },
+            {
+              "boundingBox": {
+                "y1": 277,
+                "x1": 210,
+                "y2": 286,
+                "x2": 218
+              },
+              "confidence": 17,
+              "characterChoices": [
+                {
+                  "confidence": 29,
+                  "text": "S"
+                },
+                {
+                  "confidence": 29,
+                  "text": "s"
+                },
+                {
+                  "confidence": 17,
+                  "text": "a"
+                }
+              ],
+              "text": "a"
+            },
+            {
+              "boundingBox": {
+                "y1": 273,
+                "x1": 218,
+                "y2": 286,
+                "x2": 223
+              },
+              "confidence": 26,
+              "characterChoices": [
+                {
+                  "confidence": 58,
+                  "text": "1"
+                },
+                {
+                  "confidence": 58,
+                  "text": "I"
+                },
+                {
+                  "confidence": 58,
+                  "text": "i"
+                }
+              ],
+              "text": "t"
+            },
+            {
+              "boundingBox": {
+                "y1": 273,
+                "x1": 224,
+                "y2": 286,
+                "x2": 226
+              },
+              "confidence": 94,
+              "characterChoices": [
+                {
+                  "confidence": 94,
+                  "text": "i"
+                },
+                {
+                  "confidence": 15,
+                  "text": "j"
+                },
+                {
+                  "confidence": 14,
+                  "text": "1"
+                }
+              ],
+              "text": "i"
+            },
+            {
+              "boundingBox": {
+                "y1": 277,
+                "x1": 228,
+                "y2": 286,
+                "x2": 237
+              },
+              "confidence": 40,
+              "characterChoices": [
+                {
+                  "confidence": 40,
+                  "text": "0"
+                },
+                {
+                  "confidence": 40,
+                  "text": "O"
+                },
+                {
+                  "confidence": 40,
+                  "text": "o"
+                }
+              ],
+              "text": "o"
+            },
+            {
+              "boundingBox": {
+                "y1": 277,
+                "x1": 238,
+                "y2": 286,
+                "x2": 246
+              },
+              "confidence": 13,
+              "characterChoices": [
+                {
+                  "confidence": 13,
+                  "text": "n"
+                },
+                {
+                  "confidence": 12,
+                  "text": "T"
+                },
+                {
+                  "confidence": 12,
+                  "text": "t"
+                }
+              ],
+              "text": "n"
+            },
+            {
+              "boundingBox": {
+                "y1": 273,
+                "x1": 245,
+                "y2": 286,
+                "x2": 251
+              },
+              "confidence": 14,
+              "characterChoices": [
+                {
+                  "confidence": 14,
+                  "text": "/"
+                },
+                {
+                  "confidence": 12,
+                  "text": "Z"
+                },
+                {
+                  "confidence": 12,
+                  "text": "z"
+                }
+              ],
+              "text": "/"
+            },
+            {
+              "boundingBox": {
+                "y1": 273,
+                "x1": 252,
+                "y2": 286,
+                "x2": 261
+              },
+              "confidence": 48,
+              "characterChoices": [
+                {
+                  "confidence": 48,
+                  "text": "P"
+                },
+                {
+                  "confidence": 48,
+                  "text": "p"
+                },
+                {
+                  "confidence": 15,
+                  "text": "?"
+                }
+              ],
+              "text": "P"
+            },
+            {
+              "boundingBox": {
+                "y1": 277,
+                "x1": 262,
+                "y2": 286,
+                "x2": 267
+              },
+              "confidence": 72,
+              "characterChoices": [
+                {
+                  "confidence": 72,
+                  "text": "r"
+                },
+                {
+                  "confidence": 18,
+                  "text": "f"
+                },
+                {
+                  "confidence": 13,
+                  "text": "t"
+                }
+              ],
+              "text": "r"
+            },
+            {
+              "boundingBox": {
+                "y1": 278,
+                "x1": 268,
+                "y2": 287,
+                "x2": 276
+              },
+              "confidence": 25,
+              "characterChoices": [
+                {
+                  "confidence": 25,
+                  "text": "e"
+                },
+                {
+                  "confidence": 18,
+                  "text": "3"
+                },
+                {
+                  "confidence": 16,
+                  "text": "S"
+                }
+              ],
+              "text": "e"
+            },
+            {
+              "boundingBox": {
+                "y1": 278,
+                "x1": 277,
+                "y2": 287,
+                "x2": 285
+              },
+              "confidence": 15,
+              "characterChoices": [
+                {
+                  "confidence": 26,
+                  "text": "«"
+                },
+                {
+                  "confidence": 15,
+                  "text": "a"
+                },
+                {
+                  "confidence": 15,
+                  "text": "3"
+                }
+              ],
+              "text": "a"
+            },
+            {
+              "boundingBox": {
+                "y1": 278,
+                "x1": 286,
+                "y2": 287,
+                "x2": 295
+              },
+              "confidence": 19,
+              "characterChoices": [
+                {
+                  "confidence": 19,
+                  "text": "u"
+                },
+                {
+                  "confidence": 17,
+                  "text": "U"
+                },
+                {
+                  "confidence": 14,
+                  "text": "W"
+                }
+              ],
+              "text": "u"
+            },
+            {
+              "boundingBox": {
+                "y1": 274,
+                "x1": 295,
+                "y2": 287,
+                "x2": 300
+              },
+              "confidence": 49,
+              "characterChoices": [
+                {
+                  "confidence": 82,
+                  "text": "1"
+                },
+                {
+                  "confidence": 82,
+                  "text": "I"
+                },
+                {
+                  "confidence": 82,
+                  "text": "i"
+                }
+              ],
+              "text": "t"
+            },
+            {
+              "boundingBox": {
+                "y1": 274,
+                "x1": 301,
+                "y2": 287,
+                "x2": 308
+              },
+              "confidence": 17,
+              "characterChoices": [
+                {
+                  "confidence": 17,
+                  "text": "h"
+                },
+                {
+                  "confidence": 14,
+                  "text": "b"
+                },
+                {
+                  "confidence": 12,
+                  "text": "F"
+                }
+              ],
+              "text": "h"
+            },
+            {
+              "boundingBox": {
+                "y1": 278,
+                "x1": 309,
+                "y2": 287,
+                "x2": 318
+              },
+              "confidence": 53,
+              "characterChoices": [
+                {
+                  "confidence": 53,
+                  "text": "0"
+                },
+                {
+                  "confidence": 53,
+                  "text": "O"
+                },
+                {
+                  "confidence": 53,
+                  "text": "o"
+                }
+              ],
+              "text": "o"
+            },
+            {
+              "boundingBox": {
+                "y1": 278,
+                "x1": 319,
+                "y2": 287,
+                "x2": 324
+              },
+              "confidence": 75,
+              "characterChoices": [
+                {
+                  "confidence": 75,
+                  "text": "r"
+                },
+                {
+                  "confidence": 14,
+                  "text": "F"
+                },
+                {
+                  "confidence": 14,
+                  "text": "f"
+                }
+              ],
+              "text": "r"
+            },
+            {
+              "boundingBox": {
+                "y1": 273,
+                "x1": 325,
+                "y2": 287,
+                "x2": 327
+              },
+              "confidence": 100,
+              "characterChoices": [
+                {
+                  "confidence": 100,
+                  "text": "i"
+                },
+                {
+                  "confidence": 14,
+                  "text": "1"
+                },
+                {
+                  "confidence": 14,
+                  "text": "I"
+                }
+              ],
+              "text": "i"
+            },
+            {
+              "boundingBox": {
+                "y1": 278,
+                "x1": 328,
+                "y2": 287,
+                "x2": 336
+              },
+              "confidence": 65,
+              "characterChoices": [
+                {
+                  "confidence": 65,
+                  "text": "Z"
+                },
+                {
+                  "confidence": 65,
+                  "text": "z"
+                },
+                {
+                  "confidence": 13,
+                  "text": "X"
+                }
+              ],
+              "text": "z"
+            },
+            {
+              "boundingBox": {
+                "y1": 278,
+                "x1": 337,
+                "y2": 287,
+                "x2": 345
+              },
+              "confidence": 38,
+              "characterChoices": [
+                {
+                  "confidence": 38,
+                  "text": "a"
+                },
+                {
+                  "confidence": 26,
+                  "text": "3"
+                },
+                {
+                  "confidence": 15,
+                  "text": "8"
+                }
+              ],
+              "text": "a"
+            },
+            {
+              "boundingBox": {
+                "y1": 274,
+                "x1": 346,
+                "y2": 287,
+                "x2": 351
+              },
+              "confidence": 31,
+              "characterChoices": [
+                {
+                  "confidence": 87,
+                  "text": "1"
+                },
+                {
+                  "confidence": 87,
+                  "text": "I"
+                },
+                {
+                  "confidence": 87,
+                  "text": "i"
+                }
+              ],
+              "text": "t"
+            },
+            {
+              "boundingBox": {
+                "y1": 278,
+                "x1": 352,
+                "y2": 287,
+                "x2": 353
+              },
+              "confidence": 100,
+              "characterChoices": [
+                {
+                  "confidence": 100,
+                  "text": "1"
+                },
+                {
+                  "confidence": 100,
+                  "text": "I"
+                },
+                {
+                  "confidence": 100,
+                  "text": "i"
+                }
+              ],
+              "text": "i"
+            },
+            {
+              "boundingBox": {
+                "y1": 276,
+                "x1": 355,
+                "y2": 287,
+                "x2": 363
+              },
+              "confidence": 15,
+              "characterChoices": [
+                {
+                  "confidence": 16,
+                  "text": "Q"
+                },
+                {
+                  "confidence": 16,
+                  "text": "q"
+                },
+                {
+                  "confidence": 15,
+                  "text": "0"
+                }
+              ],
+              "text": "O"
+            },
+            {
+              "boundingBox": {
+                "y1": 276,
+                "x1": 365,
+                "y2": 287,
+                "x2": 373
+              },
+              "confidence": 12,
+              "characterChoices": [
+                {
+                  "confidence": 26,
+                  "text": "rt"
+                },
+                {
+                  "confidence": 15,
+                  "text": "n"
+                },
+                {
+                  "confidence": 13,
+                  "text": "0"
+                }
+              ],
+              "text": "h"
+            }
+          ],
+          "boundingBox": {
+            "y1": 272,
+            "x1": 119,
+            "y2": 287,
+            "x2": 373
+          },
+          "confidence": -86,
+          "text": "Predetermination/PreauthorizatiOh"
+        },
+        {
+          "characters": [
+            {
+              "boundingBox": {
+                "y1": 273,
+                "x1": 379,
+                "y2": 287,
+                "x2": 389
+              },
+              "confidence": 97,
+              "characterChoices": [
+                {
+                  "confidence": 97,
+                  "text": "N"
+                },
+                {
+                  "confidence": 97,
+                  "text": "n"
+                },
+                {
+                  "confidence": 15,
+                  "text": "M"
+                }
+              ],
+              "text": "N"
+            },
+            {
+              "boundingBox": {
+                "y1": 276,
+                "x1": 391,
+                "y2": 287,
+                "x2": 399
+              },
+              "confidence": 19,
+              "characterChoices": [
+                {
+                  "confidence": 19,
+                  "text": "u"
+                },
+                {
+                  "confidence": 17,
+                  "text": "U"
+                },
+                {
+                  "confidence": 13,
+                  "text": "e"
+                }
+              ],
+              "text": "u"
+            },
+            {
+              "boundingBox": {
+                "y1": 276,
+                "x1": 400,
+                "y2": 287,
+                "x2": 412
+              },
+              "confidence": 17,
+              "characterChoices": [
+                {
+                  "confidence": 31,
+                  "text": "ffi"
+                },
+                {
+                  "confidence": 29,
+                  "text": "ffl"
+                },
+                {
+                  "confidence": 23,
+                  "text": "fl"
+                }
+              ],
+              "text": "m"
+            },
+            {
+              "boundingBox": {
+                "y1": 273,
+                "x1": 414,
+                "y2": 286,
+                "x2": 421
+              },
+              "confidence": 18,
+              "characterChoices": [
+                {
+                  "confidence": 29,
+                  "text": "fc"
+                },
+                {
+                  "confidence": 25,
+                  "text": "fe"
+                },
+                {
+                  "confidence": 24,
+                  "text": "te"
+                }
+              ],
+              "text": "b"
+            },
+            {
+              "boundingBox": {
+                "y1": 276,
+                "x1": 422,
+                "y2": 286,
+                "x2": 431
+              },
+              "confidence": 17,
+              "characterChoices": [
+                {
+                  "confidence": 25,
+                  "text": "fi"
+                },
+                {
+                  "confidence": 17,
+                  "text": "e"
+                },
+                {
+                  "confidence": 15,
+                  "text": "S"
+                }
+              ],
+              "text": "e"
+            },
+            {
+              "boundingBox": {
+                "y1": 276,
+                "x1": 432,
+                "y2": 286,
+                "x2": 438
+              },
+              "confidence": 26,
+              "characterChoices": [
+                {
+                  "confidence": 26,
+                  "text": "r"
+                }
+              ],
+              "text": "r"
+            }
+          ],
+          "boundingBox": {
+            "y1": 273,
+            "x1": 379,
+            "y2": 287,
+            "x2": 438
+          },
+          "confidence": 9,
+          "text": "Number"
+        }
+      ],
+      "regEx": null,
+      "func": null,
+      "pageNo": 1,
+      "marker": null,
+      "metaData_Name": "OCRModelNumber",
+      "isTableValue": false,
+      "tableColumn": 0,
+      "isExtracted": true,
+      "height": 0
+    }
+  ]
+}
