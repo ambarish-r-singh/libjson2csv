@@ -3,8 +3,8 @@ import csv
 
 from copy import deepcopy
 
-from .utils import extract_key_and_index
-from .utils import pretty_dump
+from utils import extract_key_and_index
+from utils import pretty_dump
 
 
 def get_object_in_dict(dictionary, keys_list):
@@ -89,7 +89,11 @@ def add_or_update_key_in_dict(dictionary, keys_list, level=-1, value=None):
 
         curr_list = current_location[key_name]
         if key_index < len(curr_list):
-            current_location[key_name][level] = value if is_terminal_key else {}
+            # surrounding with try catch to resolve nested array problem
+            try:
+                current_location[key_name][level] = value if is_terminal_key else {}
+            except:
+                print(key_name, level)
         else:
             current_list = current_location[key_name]
             '''if the index exceeds the size of compound list then expand the list.'''
